@@ -255,3 +255,9 @@ All components are configured with appropriate monitoring and logging to ensure 
 This three-tier architecture on AWS provides a scalable, secure, and highly available foundation for web applications, following AWS best practices for cloud infrastructure.
 
 
+## 13.Documentation
+```
+https://medium.com/@rohanchougule20/building-a-3-tier-architecture-on-aws-63379995ac3f
+```
+
+
